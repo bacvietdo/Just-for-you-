@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 const CONFIG = {
     introTitle: 'Hé luu Phưn :3',
     introDesc: `Đây là món quà tặng em đó, em click tiếp đi nè ^^`,
-    desc: '',
+    desc: 'Mong là em thít á ><',
     btnIntro: 'Oke ạ',
     title: 'Em có thích anh chưa nè 😉',
     btnYes: 'Kó',

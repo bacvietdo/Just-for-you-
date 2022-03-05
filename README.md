@@ -20,6 +20,6 @@ const CONFIG = {
     btnReply: 'Gửi anh',
     reply: 'Yêu thì yêu mà không yêu thì yêu hihi ^^'
     mess: 'Dạ zâng em iu 🥰. Yêu em nhắm lun ><',
-    messDesc: 'Mừng em ngày Quốc tế Phụ nữ 8/3 nhe 😍 Chúc em lun mạnh khỏe và lun vui vẻ, hạnh phúc, yêu đời á 😊 Mong là em thích món quà nho nhỏ nì 😅',
+    messDesc: 'Mừng em ngày Quốc tế Phụ nữ 8/3 nhe 😍 Chúc em lun mạnh khỏe và lun vui vẻ, hạnh phúc, yêu đời á 😊',
     btnAccept: 'Meo meo :333',
     messLink: 'https://m.me/tobyyy.kr'
